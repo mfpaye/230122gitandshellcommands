@@ -10,3 +10,5 @@
 ### Configuration Commands
 - git config --global
 - git remote add origin https://TOKEN@githubURLaddress
+- git remote -v : list out the existing repositories
+- git remote remove origin: remove repository configurations
