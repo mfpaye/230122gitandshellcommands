@@ -8,4 +8,5 @@
 - git log: information on committed files
 
 ### Configuration Commands
-- git config --global:
+- git config --global
+- git remote add origin https://TOKEN@githubURLaddress
