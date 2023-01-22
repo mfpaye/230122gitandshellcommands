@@ -7,5 +7,5 @@
 - git status: provide status of commitments
 - git log: information on committed files
 
-
 ### Configuration Commands
+- git config --global:
